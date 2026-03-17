@@ -35,7 +35,7 @@ Current add-on version
 
 Blender versions
 -
-4.5 (I didn't made it compatible with older versions yet. Go to the original addon if you're using older version of Blender for precaution)
+4.5 (I didn't made it compatible with older versions yet. Go to the original addon if you're using older version of Blender for precaution) Link for original: https://github.com/Korchy/blender_eevee_materials_override
 
 Location and call
 -
