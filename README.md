@@ -1,6 +1,8 @@
 # EEVEE Materials Override
 Blender 3D add-on for quick and easy materials overrides in the "EEVEE" render engine.
 
+Fork of blender_eevee_materials_override by *@Korchy (Nikita Akimov)*
+
 “EEVEE Materials Override” add-on allows you to quick assigning the single material to all objects in the scene, for example, for clay renders, wireframe renders, or the UV-grid demonstration just in a single button click.
 
 Add-on functionality
