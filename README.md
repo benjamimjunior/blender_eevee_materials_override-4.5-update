@@ -33,7 +33,7 @@ Current add-on version
 
 Blender versions
 -
-2.83, 2.90, 2.91, 2.92, 2.93, 3.0, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 4.0
+4.5 (I didn't made it compatible with older versions yet. Go to the original addon if you're using older version of Blender for precaution)
 
 Location and call
 -
